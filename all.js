@@ -9,7 +9,7 @@ btn.addEventListener("click", function (e) {
     { selector: ".task3", answer: 120 },
     { selector: ".task4", answer: 20 },
     { selector: ".task5", answer: 35 },
-    { selector: ".task6", answer: 10 },
+    { selector: ".task6", answer: 70 },
     { selector: ".task7", answer: 40 },
     { selector: ".task8", answer: 20 },
     { selector: ".task9", answer: 30 },
